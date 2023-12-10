@@ -11,4 +11,4 @@ Go, também conhecida como Golang, é uma linguagem de programação de código 
 - **Concorrência:** Suporte nativo para programação concorrente.
 - **Ecossistema Poderoso:** Biblioteca padrão abrangente e comunidade ativa.
 
-Este repositório é uma maneira de documentar minha jornada de aprendizado em Go. Vamos codificar! 🚀
+Este repositório é uma maneira de documentar minha jornada de aprendizado em Go. 🚀
