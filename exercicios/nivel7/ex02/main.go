@@ -31,6 +31,8 @@ func main() {
 
 	mudeMe(&p1) // Chamando a função mudeMe, e passando o ponteiro da variável como argumento
 
+	fmt.Println("Aniversário\nNova idade:", p1.idade) // Mostrando o valor após executar a função
+
 }
 
 // Função mudeMe que recebe como parâmetro um ponteiro para o tipo Pessoa
@@ -39,5 +41,5 @@ func mudeMe(pessoa *Pessoa) {
 	// pessoa.idade++   // assim funciona também
 
 	(*pessoa).idade++ // incrementando a idade da pessoa através do ponteiro
-	fmt.Println("Aniversário\nNova idade:", pessoa.idade)
+	
 }
