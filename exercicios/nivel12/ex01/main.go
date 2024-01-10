@@ -18,7 +18,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/cassio645/aprendendogo/exercicios/nivel12/ex01/cachorro/cachorro"
+	"github.com/cassio645/aprendendogo/exercicios/nivel12/ex01/cachorro"
 )
 
 func main() {
